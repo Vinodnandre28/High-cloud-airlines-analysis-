@@ -17,9 +17,9 @@ KPIS used for project are as below
 
 5)Display top Routes ( from-to City) based on Number of Flights 
 
-6) Identify the how much load factor is occupied on Weekend vs Weekdays.
+6)Identify the how much load factor is occupied on Weekend vs Weekdays.
 
-7) Use the filter to provide a search capability to find the flights between Source Country, Source State, Source City to Destination Country , Destination State, Destination City
+7)Use the filter to provide a search capability to find the flights between Source Country, Source State, Source City to Destination Country , Destination State, Destination City
 
 8)Identify number of flights based on Distance groups
 
