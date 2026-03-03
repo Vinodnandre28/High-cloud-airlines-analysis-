@@ -28,39 +28,39 @@ KPIS used for project are as below
 
 High Cloud Airlines – Project Objectives
 
-Enhance Customer Experience 
+A)Enhance Customer Experience 
         1)Deliver personalized services tailored to passenger preferences
         2)Enable seamless and user-friendly digital interactions
         3)Improve overall passenger satisfaction and loyalty
         
-Improve Operational Efficiency
+B)Improve Operational Efficiency
          1)Optimize flight operations and resource utilization
          2)Reduce operational delays
          3)Strengthen on-time performance
          
-Increase Revenue Growth
+C)Increase Revenue Growth
           1)Diversify revenue through ancillary service offerings
           2)Develop and expand strategic partnerships
          3)Drive long-term financial sustainability
 
 Suggestions
-High Cloud Airlines will strengthen overall performance through a focused strategy centered on partnership optimization, revenue growth, and operational excellence.
+1)High Cloud Airlines will strengthen overall performance through a focused strategy centered on partnership optimization, revenue growth, and operational excellence.
 
-Optimize Strategic Partnerships: Focus on high-performing airline partners, rebalance carrier dependency, and rationalize low-demand routes.
+2)Optimize Strategic Partnerships: Focus on high-performing airline partners, rebalance carrier dependency, and rationalize low-demand routes.
 
-Enhance Revenue & Load Factor: Implement dynamic pricing, seasonal strategies, and targeted weekday promotions to maximize seat occupancy.
+3)Enhance Revenue & Load Factor: Implement dynamic pricing, seasonal strategies, and targeted weekday promotions to maximize seat occupancy.
 
-Improve Operational Efficiency: Reduce cancellations through root-cause analysis, streamline ground operations, and minimize taxi-time delays at major hubs.
+4)Improve Operational Efficiency: Reduce cancellations through root-cause analysis, streamline ground operations, and minimize taxi-time delays at major hubs.
 
-Ideal Outcomes: Improved efficiency, higher load factors, increased profitability, and enhanced customer satisfaction.
+5)Ideal Outcomes: Improved efficiency, higher load factors, increased profitability, and enhanced customer satisfaction.
 
 
 Conclusions
-Demonstrates strong network presence with consistent load factor performance.
+1)Demonstrates strong network presence with consistent load factor performance.
 
-Improvement needed in seat utilization, flight cancellations, and route dependency.
+2)Improvement needed in seat utilization, flight cancellations, and route dependency.
 
-Data-driven operational enhancements will drive higher efficiency, profitability, and customer satisfaction.
+3)Data-driven operational enhancements will drive higher efficiency, profitability, and customer satisfaction.
 
 
 
